@@ -1,66 +1,39 @@
-# 👩‍💻 Anishka Gupta  
+# 👋 Hi, I'm Anishka Gupta  
 
-📧 **Email:** [guptaanishka24@gmail.com](mailto:guptaanishka24@gmail.com)  
-📱 **Phone:** +91-8923332656  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username) • [LeetCode](https://leetcode.com/your-username)  
-
----
-
-## 🌟 Professional Summary  
-Passionate **Full-Stack Developer** skilled in building **scalable MERN applications**, deploying with **Docker & AWS**, and optimizing for **performance & usability**. Experienced in crafting **responsive UIs** and **secure backends** while collaborating in **Agile environments**. 🚀  
+💻 **Full-Stack Developer | MERN | Cloud Enthusiast**  
+🌱 Passionate about solving real-world problems with technology  
+⚡ Loves building scalable apps & experimenting with DevOps  
 
 ---
 
-## 🎓 Education  
-🎓 **B.Tech in Electronics and Communication Engineering**  
-*Dr. APJ Abdul Kalam Technical University (2022 – 2026)*  
-📊 Current CGPA: **7.5/10**  
+## 🛠️ Tech Stack  
 
----
-
-## 🛠️ Tech Stack & Skills  
-
-- **Languages:** C++, Python, SQL, Java (basics)  
-- **Frontend:** React.js ⚛, Angular.js, Vue.js, Backbone.js, jQuery, HTML, CSS  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** PostgreSQL 🐘, MongoDB 🍃  
-- **DevOps & Cloud:** AWS (EC2, S3), Azure, Docker 🐳, Git, Postman, CI/CD Pipelines  
-- **Other Skills:** Debugging, Troubleshooting, Network Architecture  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Projects  
 
-### 🚖 GrabCab - Real-Time Cab Booking App *(2025)*  
-- Built **MERN-based cab booking platform** with WebSockets for **live location & real-time updates**.  
-- Deployed on **Netlify**, tested with **Postman**, version-controlled with **Git**.  
-- Developed in **Agile cycles** with a team.  
-
-### 🐦 TwiConnect - Microblogging Platform *(2024)*  
-- Scalable **REST APIs** for posts, likes & comments.  
-- **JWT Authentication** + PostgreSQL for session management.  
-- Modular backend + clean UI interactions.  
-
-### 💬 MERN Stack Chat App *(2024)*  
-- Real-time **chat application** with socket management.  
-- Optimized performance for **large user datasets**.  
-- Production issue debugging + documentation.  
-
----
-
-## 📜 Certifications  
-
-- ✅ MERN Stack Certification (2024)  
-- ✅ AWS Cloud Essentials  
-- ✅ Responsive Web Design  
+- **GrabCab** 🟢 – Real-time cab booking app with live tracking (MERN + WebSockets)  
+- **TwiConnect** 🐦 – Microblogging platform with JWT auth & PostgreSQL  
+- **MERN Chat App** 💬 – Real-time chat with socket.io and responsive UI  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -68,10 +41,24 @@ Passionate **Full-Stack Developer** skilled in building **scalable MERN applicat
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark" />
 </p>
 
 ---
 
-## ✨ Fun Fact  
-💡 *“Code is like humor. When you have to explain it, it’s bad.”* 😆  
+## 🎓 Education & Certifications  
+
+🎓 B.Tech, Electronics & Communication Engineering – *AKTU (2022–2026)*  
+📜 MERN Stack Certification | AWS Cloud Essentials | Responsive Web Design  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)  
+
+---
+
+✨ *"Code. Debug. Learn. Repeat."*  
