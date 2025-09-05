@@ -77,15 +77,3 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Anishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-
----
-
-## 🏆 LeetCode Stats  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest)  
-
----
